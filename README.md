@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gnabcel
-- 👀 I’m interested in IA.
+- 👀 I’m interested in IA, DataScience and Languages.
 - 🌱 I’m currently learning ML, Deep Learning.
 - 📫 How to reach me gn.abcel@gmail.com
 
